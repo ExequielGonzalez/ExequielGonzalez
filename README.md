@@ -6,6 +6,8 @@
 
 - :iphone: I'm currently working on my first published mobile app
 - :seedling: I'm currently learning everything :joy:
+- :speech_balloon: I taught [Mathematica](https://www.wolfram.com/mathematica/) for 3 years in my University
+
 - :dancers: I'm looking to collaborate with other mobile developers
 
 ### Connect with me:
