@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-#### :email: You can email me at [email](mailto:gonzalez-exequiel@hotmail.com)
+#### :email: You can email me at [email](mailto:contact@exequielgonzale)
 
 <br />
 
