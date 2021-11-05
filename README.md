@@ -6,7 +6,7 @@
 ## I'm an Electronic Engineer who loves programming
 
 
-- :iphone: I work as FullStack developer mainly with Vue.js and Node.js, but also Vanilla Javascript.
+- :office: I work as FullStack developer in an Startup, mainly with Vue.js and Node.js, but also Vanilla Javascript.
 - :iphone: I published 3 mobile app on PlayStore 
 - :seedling: I love learning as much as I can 
 - :speech_balloon: I taught [Mathematica](https://www.wolfram.com/mathematica/) for 3 years in my University
