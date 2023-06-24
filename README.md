@@ -23,9 +23,9 @@
 
 ### Languages
 
-- <img src="https://raw.githubusercontent.com/ashhitch/ISO-country-flags-icons/ada3cec9052f7de0901465c7a6a700638657a558/src/flags/svg/es.svg" width="22" height="22"> Mother language
+- <img src="https://raw.githubusercontent.com/ashhitch/ISO-country-flags-icons/ada3cec9052f7de0901465c7a6a700638657a558/src/flags/svg/es.svg" width="22" height="22"> Native
 
-- <img  alt="English" width="22px" src="https://raw.githubusercontent.com/ashhitch/ISO-country-flags-icons/master/src/flags/png/us.png"/> B2+ level
+- <img  alt="English" width="22px" src="https://raw.githubusercontent.com/ashhitch/ISO-country-flags-icons/master/src/flags/png/us.png"/> C1 level
 
 - <img  alt="German" width="22px" src="https://raw.githubusercontent.com/ashhitch/iso-country-flags-icons/ada3cec9052f7de0901465c7a6a700638657a558/src/flags/svg/de.svg"/> B1 level
 
